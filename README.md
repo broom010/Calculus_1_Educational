@@ -1,2 +1,4 @@
 # Calculus_1_Educational
-Educational Ipython notebooks to teach calculus
+Description: Educational Ipython notebooks to teach calculus
+Author: Jimmy Broomfield
+Email: broom010@umn.edu
